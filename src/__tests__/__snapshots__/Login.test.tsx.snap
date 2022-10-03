@@ -1,0 +1,193 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login snnapshot 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-p08t7n-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-sm-5 MuiGrid-grid-md-5 MuiGrid-grid-lg-5 css-1qr3d4p-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-dvxtzn"
+      >
+        <div
+          className="MuiBox-root css-0"
+        >
+          <img
+            alt="logo"
+            data-testid="logoImg"
+            src="./images/logo 1.png"
+          />
+        </div>
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom css-13gc1yq-MuiTypography-root"
+          >
+            Welcome Back!
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom css-3zk4c-MuiTypography-root"
+          >
+            Login Account
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-k008qs"
+        >
+          <div
+            className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary  css-1nreaws-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+            onClick={[Function]}
+          >
+            <div
+              aria-expanded="false"
+              aria-haspopup="listbox"
+              aria-labelledby="demo-simple-select-label demo-simple-select"
+              className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+              id="demo-simple-select"
+              onBlur={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              role="button"
+              tabIndex={0}
+            >
+              <span
+                className="notranslate"
+              >
+                ​
+              </span>
+            </div>
+            <input
+              aria-hidden={true}
+              className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+              onAnimationStart={[Function]}
+              onChange={[Function]}
+              tabIndex={-1}
+            />
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+              data-testid="ArrowDropDownIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+            <fieldset
+              aria-hidden={true}
+              className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                className="css-1ftyaf0"
+              >
+                <span>
+                  Select
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+          <div
+            className="MuiFormControl-root MuiTextField-root css-1wtapkw-MuiFormControl-root-MuiTextField-root"
+            data-testid="loginInput"
+          >
+            <label
+              className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-standard MuiFormLabel-root MuiFormLabel-colorPrimary css-aqpgxn-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink={false}
+              htmlFor="standard-basic"
+              id="standard-basic-label"
+            >
+              mobile no
+            </label>
+            <div
+              className="MuiInput-root MuiInput-underline MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedEnd css-1ptx2yq-MuiInputBase-root-MuiInput-root"
+              onClick={[Function]}
+            >
+              <input
+                aria-invalid={false}
+                autoFocus={false}
+                className="MuiInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-1x51dt5-MuiInputBase-input-MuiInput-input"
+                disabled={false}
+                id="standard-basic"
+                onAnimationStart={[Function]}
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                placeholder="mobile no"
+                required={false}
+                type="text"
+              />
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                data-testid="LocalPhoneIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <button
+          className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-otp-33 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          data-testid="loginButton"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          style={
+            Object {
+              "margin": "30px 0",
+            }
+          }
+          tabIndex={0}
+          type="button"
+        >
+          GET OTP
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-7 MuiGrid-grid-md-7 MuiGrid-grid-lg-7 css-1u5iry1-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-1iautga"
+      >
+        <img
+          alt="bike"
+          src="../images/img.png"
+          style={
+            Object {
+              "backgroundRepeat": "no-repeat",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

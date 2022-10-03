@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Verifcation snnapshot 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-p08t7n-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-sm-5 MuiGrid-grid-md-5 MuiGrid-grid-lg-5 css-1qr3d4p-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-dvxtzn"
+      >
+        <ul
+          className="MuiImageList-root MuiImageList-standard css-1xltci0-MuiImageList-root"
+          style={
+            Object {
+              "gap": 4,
+              "gridTemplateColumns": "repeat(2, 1fr)",
+            }
+          }
+        >
+          <img
+            alt="logo"
+            data-testid="img"
+            src="./images/logo 1.png"
+          />
+        </ul>
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h3 MuiTypography-gutterBottom makeStyles-verify-29 css-1mktp8m-MuiTypography-root"
+          >
+            Verification
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom makeStyles-Login-30 css-1a1h3h8-MuiTypography-root"
+          >
+            Enter the OTP sent to +91 
+          </div>
+          <div
+            className="MuiBox-root css-xi606m"
+          >
+            <div
+              className="MuiFormControl-root MuiTextField-root css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+            >
+              <div
+                className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+                  disabled={false}
+                  id=":r0:"
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  placeholder="otp"
+                  required={false}
+                  type="password"
+                />
+                <fieldset
+                  aria-hidden={true}
+                  className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    className="css-hdw1oc"
+                  >
+                    <span
+                      className="notranslate"
+                    >
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+            <p
+              className="MuiTypography-root MuiTypography-body1 makeStyles-timer-33 css-ahj2mt-MuiTypography-root"
+            >
+              Sec 
+              59
+               
+            </p>
+            <div
+              className="MuiBox-root css-1h03bmi"
+              style={
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                }
+              }
+            >
+              <p
+                className="MuiTypography-root MuiTypography-body1 makeStyles-ResendOtp-34 css-ahj2mt-MuiTypography-root"
+                style={
+                  Object {
+                    "margin": "25px 3px",
+                  }
+                }
+              >
+                Resend OTP
+              </p>
+              <div
+                className="bgg MuiBox-root css-0"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                  data-testid="RefreshIcon"
+                  focusable="false"
+                  style={
+                    Object {
+                      "color": "white",
+                    }
+                  }
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          className="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root makeStyles-VeriTxt-35 css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+          data-testid="VerifcationButton"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <div
+            className="btn-text MuiBox-root css-0"
+          >
+            Verifcation
+          </div>
+        </button>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-7 MuiGrid-grid-md-7 MuiGrid-grid-lg-7 css-1u5iry1-MuiGrid-root"
+    >
+      <div
+        className="MuiBox-root css-0"
+      >
+        <img
+          alt="mobile"
+          data-testid="mobImg"
+          src="../images/img-1.png"
+          style={
+            Object {
+              "backgroundRepeat": "no-repeat",
+              "width": "100%",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="Toastify"
+  />
+</div>
+`;

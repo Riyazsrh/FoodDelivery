@@ -1,0 +1,42 @@
+
+.tog {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    align-items: center;
+    
+}
+
+.repay {
+    color: #fff;
+    background-color: #DF201F;
+    border-radius: 20px;
+    padding: 6px;
+    text-align: center;
+    
+}
+
+.resend {
+    font-family: 'Montserrat Alternates';
+    font-size: 18px;
+    text-align: center;
+    fill: Solid;
+    color: #161A1D;
+    margin-top: 0px;
+  }
+
+  .inputRounded .MuiOutlinedInput-root {
+    border-radius: 30px;
+    width: 280px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Bai Jamjuree';
+  }
+  
+  .multiline .MuiOutlinedInput-root {
+    height: 150px;
+    width: 400px;
+  }
+  
+  
