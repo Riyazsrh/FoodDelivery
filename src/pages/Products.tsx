@@ -1,21 +1,3 @@
-// import React from 'react'
-// import TableData from '../Components/Table'
-
-// const MenuuList = () => {
-//   return (
-//     <>
-//       <TableData/>
-
-      
-//     </>
-//   )
-// }
-
-// export default MenuuList
-
-
-
-
 
 import { makeStyles } from '@material-ui/core/styles';
 import {
@@ -38,11 +20,10 @@ import SearchIcon from '@mui/icons-material/Search';
 import DialogActions from "@mui/material/DialogActions";
 import Dialog from "@mui/material/Dialog";
 
-import { Box, Button, Container, MenuItem, Pagination, Select, TextField } from '@mui/material';
+import { Button, Container, Pagination, TextField } from '@mui/material';
 
 import React, { useEffect, useState } from 'react';
 import Modal from "@mui/material/Modal";
-import CloseIcon from "@mui/icons-material/Close";
 import './Common.css'
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios'
